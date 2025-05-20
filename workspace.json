@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "38d032d4ee8b9c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b694747d16217739",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0_dis/IS.sync-conflict-20241127-092419-QNQD6CU.canvas",
+                "viewState": {
+                  "x": -1056.905205430438,
+                  "y": -345.8862256635525,
+                  "zoom": -2.151722565503629
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "IS.sync-conflict-20241127-092419-QNQD6CU"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efe3a8998da77811",
+    "type": "split",
+    "children": [
+      {
+        "id": "de3c1adcf112bf9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f08d0df631f469e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2824e381942983b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "78db7f0d94974f4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "41aaf04fd48161d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3133e68b11eea78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd7222a02e442144",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Abstract.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abstract"
+            }
+          },
+          {
+            "id": "9303a16696f0e711",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Abstract.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Abstract"
+            }
+          },
+          {
+            "id": "e490944c9b71a60d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "278b63ae07505665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Abstract.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Abstract"
+            }
+          },
+          {
+            "id": "e3f1e049d6f2f2c3",
+            "type": "leaf",
+            "state": {
+              "type": "hackernews-view",
+              "state": {},
+              "icon": "hackernews",
+              "title": "HackerNews"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b694747d16217739",
+  "lastOpenFiles": [
+    "Untitled 10.canvas",
+    "Untitled 9.canvas",
+    "Excalidraw/Drawing 2025-05-20 23.42.41.excalidraw.md",
+    "Excalidraw",
+    "0_dis/IS.canvas",
+    "PICS/Pasted image 20241124003851.png",
+    "PICS/Functional Overview of Information Retrieval System (IRS) ｜ Hindi ｜ Amit Sagu ｜ Part -2.webm",
+    "home/home.gif",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 8.canvas",
+    "Untitled 7.canvas",
+    "Q1 2022.md",
+    "DSA/LL/Intro.md",
+    "Untitled 6.canvas",
+    "PICS/Pasted image 20250430200230.png",
+    "PICS/Pasted image 20250430200212.png",
+    "home/HOME.md",
+    "collabrixo/ppt-2.md",
+    "collabrixo/Collabrixo.md",
+    "collabrixo",
+    "c",
+    "ASH WITH BASH.md",
+    "Abstract.md",
+    "college/Untitled 1.md",
+    "college/Untitled.md",
+    "PPL/PPL notes.docx.pdf",
+    "Introduction to Programming.md",
+    "Untitled Kanban.md",
+    "2024-12-20.md",
+    "pps/pps.md",
+    "FRESH-PRINTS/Untitled.md",
+    "FRESH-PRINTS",
+    "sum/Untitled.md",
+    "PICS/Pasted image 20241130222320.png",
+    "PICS/Pasted image 20241130222259.png",
+    "0_TImeTable/Service Based.md",
+    "PICS/Pasted image 20241127051506.png",
+    "sum/Untitled 1.md",
+    "sum",
+    "PICS/Pasted image 20241126230945.png",
+    "PICS/Pasted image 20241125215427.png",
+    "PICS/Pasted image 20241125214825.png",
+    "0_dis/IRS.md",
+    "0_TImeTable/ADV.md",
+    "0_dis/Untitled.md",
+    "0_dis",
+    "pps",
+    "Basics.md",
+    "PPL",
+    "delta/Untitled.md",
+    "Welcome.md"
+  ]
+}
